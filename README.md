@@ -1,11 +1,12 @@
 # About
 This is a simple Python project that calculates how long you’ve survived based
 on the number of days you input. It converts your days into various time units 
-like hours, minutes, seconds, weeks, months, and years.
+like months, weeks, days, hours, minuts, seconds.
 
 # Features
 Converts days into hours, minutes, seconds, weeks, months, and years.
-Handles invalid input and shows helpful error messages if something goes wrong.
+example:    you write your first input age is "10" and second input "m"  give you a result 
+you lived 120 months'
 
 
 # My Thought Process
